@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
      xmlns:atom="http://www.w3.org/2005/Atom" 
@@ -44,6 +43,8 @@
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="null"/>
     <itunes:image href="https://d32kcwy5dai345.cloudfront.net/49105b38-5a93-494b-901d-2be2afcd9a1b.jpg"/>
+    
+    <!-- Capítulo 1 -->
     <item>
       <title>
         <![CDATA[ Capítulo 1: Introducción & Prólogo del Autor ]]>
@@ -53,7 +54,7 @@
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:39 GMT</pubDate>
-      <enclosure url="https://podcasts.helloaudio.fm/download/27SF7kLrmi/3997b084-69a5-4639-ae62-9cced3d30079.mp3" length="33915413" type="audio/mpeg"/>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_1.mp3" length="33915413" type="audio/mpeg"/>
       <spotify:access>
         <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
       </spotify:access>
@@ -61,6 +62,253 @@
       <itunes:duration>00:23:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-    <!-- Include the remaining <item> blocks exactly as provided -->
+    
+    <!-- Capítulo 2 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 2: Fundamentos del Trading 101: Principios Esenciales ]]>
+      </title>
+      <guid isPermaLink="false">9462f709-9443-46b2-aa54-2a195a69a26c_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:38 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_2.mp3" length="81683919" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:56:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 3 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 3: Fundamentos del Trading 201: Estructura del Mercado, Gráficos e Impacto Fundamental ]]>
+      </title>
+      <guid isPermaLink="false">f9c409e4-3519-4b3a-a584-5ade6a0785b5_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:37 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_3.mp3" length="67443187" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:46:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 4 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 4: Fundamentos del Trading 301: Estructuración de su día de trading ]]>
+      </title>
+      <guid isPermaLink="false">a5364c24-6863-4558-8589-301a4f49ace9_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:36 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_4.mp3" length="57126242" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:39:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 5 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 5: Psicología 101: La Ventaja Psicológica del Trader ]]>
+      </title>
+      <guid isPermaLink="false">f1f7cbf6-a778-4c23-8f89-e3f133f4304c_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:35 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_5.mp3" length="79253226" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:55:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 6 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 6: Psicología 201: Adoptando la Ventaja Probabilística ]]>
+      </title>
+      <guid isPermaLink="false">92c0bded-cbde-4da4-9805-509079b53524_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:34 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_6.mp3" length="80264664" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:55:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 7 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 7: Gestión de Riesgos 101: Principios Avanzados de Riesgo Dinámico ]]>
+      </title>
+      <guid isPermaLink="false">1f321cb8-865a-4955-89e2-409e7a3b71e5_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:33 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_7.mp3" length="134456693" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:33:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 8 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 8: Gestión De Riesgos 201: Diversificación, Asimetría Y Dimensionamiento Dinámico De Posiciones ]]>
+      </title>
+      <guid isPermaLink="false">93bb0b2a-7bde-4f81-ab6d-3dc5754c1c80_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:32 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_8.mp3" length="143951958" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:39:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 9 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 9: Gestión de riesgos 301: Protegiendo el Capital con Estrategias Dinámicas ]]>
+      </title>
+      <guid isPermaLink="false">df7a94a1-3984-4c50-a7fd-9b9b251df399_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:31 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_9.mp3" length="87192097" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:00:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 10 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 10: Psicología 301: Superar El Miedo En El Trading ]]>
+      </title>
+      <guid isPermaLink="false">42aeac81-04f6-46f5-bee5-18bb979d0809_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:30 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_10.mp3" length="63893638" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:44:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 11 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 11: Desarrollo De Estrategias 101: Construyendo Su Ventaja En El Trading ]]>
+      </title>
+      <guid isPermaLink="false">97d8fffa-e222-437d-abcf-d438eb46a4df_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:29 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_11.mp3" length="45590032" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:31:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 12 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 12: Desarrollo De Estrategias 201: El Enfoque Paso A Paso Para Construir Una Ventaja Sólida ]]>
+      </title>
+      <guid isPermaLink="false">bf73188f-dbd7-4756-8a49-aa9dc35333d9_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:28 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_12.mp3" length="93017676" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:04:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 13 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 13: Financiación y Prop Trading 101: Construyendo un Negocio de Trading Sostenible ]]>
+      </title>
+      <guid isPermaLink="false">a0805974-31c4-4986-9b17-d5986c5eac51_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:27 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_13.mp3" length="85221963" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:59:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <!-- Capítulo 14 -->
+    <item>
+      <title>
+        <![CDATA[ Capítulo 14: Conclusión: El Viaje de Trading en Curso ]]>
+      </title>
+      <guid isPermaLink="false">9038e63f-432b-4a7d-8daf-06c55bd633c7_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:26 GMT</pubDate>
+      <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_14.mp3" length="99042604" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:08:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
   </channel>
 </rss>
