@@ -12,6 +12,8 @@
       <![CDATA[ Planifica, luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional ]]>
     </description>
     <link>https://helloaudio.fm</link>
+    <!-- Feed summary added -->
+    <itunes:summary><![CDATA[Un podcast sobre estrategias avanzadas de trading para lograr consistencia y rentabilidad.]]></itunes:summary>
     <image>
       <url>https://d32kcwy5dai345.cloudfront.net/49105b38-5a93-494b-901d-2be2afcd9a1b.jpg</url>
       <title>Planifica, luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional</title>
@@ -41,7 +43,10 @@
       <itunes:email>juancarlosmarchan@skyweavermedia.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:category text="null"/>
+    <!-- Updated category to a valid one -->
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
     <itunes:image href="https://d32kcwy5dai345.cloudfront.net/49105b38-5a93-494b-901d-2be2afcd9a1b.jpg"/>
     
     <!-- Capítulo 1 -->
@@ -49,15 +54,17 @@
       <title>
         <![CDATA[ Capítulo 1: Introducción & Prólogo del Autor ]]>
       </title>
+      <!-- Episode webpage link (update if needed) -->
+      <link>https://helloaudio.fm/episode/3997b084-69a5-4639-ae62-9cced3d30079</link>
       <guid isPermaLink="false">3997b084-69a5-4639-ae62-9cced3d30079_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:39 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_1.mp3" length="33915413" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Una introducción y prólogo del autor al podcast.]]></itunes:summary>
+      <content:encoded><![CDATA[Una introducción y prólogo del autor al podcast.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>00:23:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -68,15 +75,16 @@
       <title>
         <![CDATA[ Capítulo 2: Fundamentos del Trading 101: Principios Esenciales ]]>
       </title>
+      <link>https://helloaudio.fm/episode/9462f709-9443-46b2-aa54-2a195a69a26c</link>
       <guid isPermaLink="false">9462f709-9443-46b2-aa54-2a195a69a26c_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:38 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_2.mp3" length="81683919" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Principios esenciales para adentrarse en el trading.]]></itunes:summary>
+      <content:encoded><![CDATA[Principios esenciales para adentrarse en el trading.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>00:56:43</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -87,15 +95,16 @@
       <title>
         <![CDATA[ Capítulo 3: Fundamentos del Trading 201: Estructura del Mercado, Gráficos e Impacto Fundamental ]]>
       </title>
+      <link>https://helloaudio.fm/episode/f9c409e4-3519-4b3a-a584-5ade6a0785b5</link>
       <guid isPermaLink="false">f9c409e4-3519-4b3a-a584-5ade6a0785b5_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:37 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_3.mp3" length="67443187" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Análisis de la estructura del mercado y fundamentos gráficos.]]></itunes:summary>
+      <content:encoded><![CDATA[Análisis de la estructura del mercado, gráficos e impacto fundamental en el trading.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>00:46:50</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -106,15 +115,16 @@
       <title>
         <![CDATA[ Capítulo 4: Fundamentos del Trading 301: Estructuración de su día de trading ]]>
       </title>
+      <link>https://helloaudio.fm/episode/a5364c24-6863-4558-8589-301a4f49ace9</link>
       <guid isPermaLink="false">a5364c24-6863-4558-8589-301a4f49ace9_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:36 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_4.mp3" length="57126242" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Consejos para estructurar eficazmente el día de trading.]]></itunes:summary>
+      <content:encoded><![CDATA[Consejos y métodos para planificar y estructurar el día de trading.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>00:39:40</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -125,15 +135,16 @@
       <title>
         <![CDATA[ Capítulo 5: Psicología 101: La Ventaja Psicológica del Trader ]]>
       </title>
+      <link>https://helloaudio.fm/episode/f1f7cbf6-a778-4c23-8f89-e3f133f4304c</link>
       <guid isPermaLink="false">f1f7cbf6-a778-4c23-8f89-e3f133f4304c_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:35 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_5.mp3" length="79253226" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Exploración de la psicología del trading y la ventaja mental.]]></itunes:summary>
+      <content:encoded><![CDATA[Exploración de la psicología del trading para obtener una ventaja competitiva.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>00:55:02</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -144,15 +155,16 @@
       <title>
         <![CDATA[ Capítulo 6: Psicología 201: Adoptando la Ventaja Probabilística ]]>
       </title>
+      <link>https://helloaudio.fm/episode/92c0bded-cbde-4da4-9805-509079b53524</link>
       <guid isPermaLink="false">92c0bded-cbde-4da4-9805-509079b53524_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:34 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_6.mp3" length="80264664" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Adopción de métodos probabilísticos para mejorar decisiones de trading.]]></itunes:summary>
+      <content:encoded><![CDATA[Adopción de estrategias basadas en probabilidades para maximizar resultados.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>00:55:44</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -163,15 +175,16 @@
       <title>
         <![CDATA[ Capítulo 7: Gestión de Riesgos 101: Principios Avanzados de Riesgo Dinámico ]]>
       </title>
+      <link>https://helloaudio.fm/episode/1f321cb8-865a-4955-89e2-409e7a3b71e5</link>
       <guid isPermaLink="false">1f321cb8-865a-4955-89e2-409e7a3b71e5_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:33 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_7.mp3" length="134456693" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Conceptos avanzados para la gestión dinámica de riesgos.]]></itunes:summary>
+      <content:encoded><![CDATA[Conceptos avanzados para manejar y mitigar riesgos en el trading.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>01:33:22</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -182,15 +195,16 @@
       <title>
         <![CDATA[ Capítulo 8: Gestión De Riesgos 201: Diversificación, Asimetría Y Dimensionamiento Dinámico De Posiciones ]]>
       </title>
+      <link>https://helloaudio.fm/episode/93bb0b2a-7bde-4f81-ab6d-3dc5754c1c80</link>
       <guid isPermaLink="false">93bb0b2a-7bde-4f81-ab6d-3dc5754c1c80_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:32 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_8.mp3" length="143951958" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Exploración de técnicas avanzadas de diversificación y manejo asimétrico de posiciones.]]></itunes:summary>
+      <content:encoded><![CDATA[Estrategias para diversificar y dimensionar dinámicamente posiciones en el trading.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>01:39:57</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -201,15 +215,16 @@
       <title>
         <![CDATA[ Capítulo 9: Gestión de riesgos 301: Protegiendo el Capital con Estrategias Dinámicas ]]>
       </title>
+      <link>https://helloaudio.fm/episode/df7a94a1-3984-4c50-a7fd-9b9b251df399</link>
       <guid isPermaLink="false">df7a94a1-3984-4c50-a7fd-9b9b251df399_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:31 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_9.mp3" length="87192097" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Estrategias para proteger el capital mediante gestión dinámica del riesgo.]]></itunes:summary>
+      <content:encoded><![CDATA[Estrategias y tácticas para salvaguardar el capital en entornos volátiles.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>01:00:33</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -220,15 +235,16 @@
       <title>
         <![CDATA[ Capítulo 10: Psicología 301: Superar El Miedo En El Trading ]]>
       </title>
+      <link>https://helloaudio.fm/episode/42aeac81-04f6-46f5-bee5-18bb979d0809</link>
       <guid isPermaLink="false">42aeac81-04f6-46f5-bee5-18bb979d0809_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:30 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_10.mp3" length="63893638" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Estrategias para superar el miedo y optimizar la toma de decisiones en trading.]]></itunes:summary>
+      <content:encoded><![CDATA[Consejos prácticos para enfrentar y superar el miedo en el trading.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>00:44:22</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -239,15 +255,16 @@
       <title>
         <![CDATA[ Capítulo 11: Desarrollo De Estrategias 101: Construyendo Su Ventaja En El Trading ]]>
       </title>
+      <link>https://helloaudio.fm/episode/97d8fffa-e222-437d-abcf-d438eb46a4df</link>
       <guid isPermaLink="false">97d8fffa-e222-437d-abcf-d438eb46a4df_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:29 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_11.mp3" length="45590032" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Introducción a estrategias para desarrollar una ventaja competitiva en trading.]]></itunes:summary>
+      <content:encoded><![CDATA[Desarrollo de estrategias clave para mejorar el desempeño en el trading.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>00:31:39</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -258,15 +275,16 @@
       <title>
         <![CDATA[ Capítulo 12: Desarrollo De Estrategias 201: El Enfoque Paso A Paso Para Construir Una Ventaja Sólida ]]>
       </title>
+      <link>https://helloaudio.fm/episode/bf73188f-dbd7-4756-8a49-aa9dc35333d9</link>
       <guid isPermaLink="false">bf73188f-dbd7-4756-8a49-aa9dc35333d9_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:28 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_12.mp3" length="93017676" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Un enfoque detallado y paso a paso para desarrollar estrategias de trading.]]></itunes:summary>
+      <content:encoded><![CDATA[Guía paso a paso para construir una ventaja sólida en el trading mediante estrategias efectivas.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>01:04:35</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -277,15 +295,16 @@
       <title>
         <![CDATA[ Capítulo 13: Financiación y Prop Trading 101: Construyendo un Negocio de Trading Sostenible ]]>
       </title>
+      <link>https://helloaudio.fm/episode/a0805974-31c4-4986-9b17-d5986c5eac51</link>
       <guid isPermaLink="false">a0805974-31c4-4986-9b17-d5986c5eac51_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:27 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_13.mp3" length="85221963" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Cómo financiar y desarrollar un negocio de trading sostenible.]]></itunes:summary>
+      <content:encoded><![CDATA[Estrategias para conseguir financiación y desarrollar un negocio de trading a largo plazo.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>00:59:11</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
@@ -296,15 +315,16 @@
       <title>
         <![CDATA[ Capítulo 14: Conclusión: El Viaje de Trading en Curso ]]>
       </title>
+      <link>https://helloaudio.fm/episode/9038e63f-432b-4a7d-8daf-06c55bd633c7</link>
       <guid isPermaLink="false">9038e63f-432b-4a7d-8daf-06c55bd633c7_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:26 GMT</pubDate>
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_14.mp3" length="99042604" type="audio/mpeg"/>
-      <spotify:access>
-        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
-      </spotify:access>
+      <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
+      <itunes:summary><![CDATA[Reflexiones finales y un resumen del viaje de trading.]]></itunes:summary>
+      <content:encoded><![CDATA[Conclusiones y reflexiones finales sobre el viaje y aprendizaje en trading.]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>01:08:46</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
