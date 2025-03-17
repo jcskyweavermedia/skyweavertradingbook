@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+     xmlns:atom="http://www.w3.org/2005/Atom" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:spotify="http://www.spotify.com/ns/rss" 
+     version="2.0">
+  <channel>
+    <title>
+      <![CDATA[ Planifica, luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional ]]>
+    </title>
+    <description>
+      <![CDATA[ Planifica, luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional ]]>
+    </description>
+    <link>https://helloaudio.fm</link>
+    <image>
+      <url>https://d32kcwy5dai345.cloudfront.net/49105b38-5a93-494b-901d-2be2afcd9a1b.jpg</url>
+      <title>Planifica, luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional</title>
+      <link>https://helloaudio.fm</link>
+    </image>
+    <generator>Podcast for Node</generator>
+    <lastBuildDate>Sat, 15 Mar 2025 18:43:13 GMT</lastBuildDate>
+    <atom:link href="https://podcasts.helloaudio.fm/podcast/693101ae-6aab-4345-a235-61643ee92617/27SF7kLrmi" rel="self" type="application/rss+xml"/>
+    <author>
+      <![CDATA[ Juan Carlos Marchan ]]>
+    </author>
+    <copyright>
+      <![CDATA[ © 2025 null All Rights Reserved. ]]>
+    </copyright>
+    <language>
+      <![CDATA[ en ]]>
+    </language>
+    <itunes:block>yes</itunes:block>
+    <meta name="robots" content="noindex"/>
+    <spotify:access>
+      <partner id="1XdUTF2ASS4KIwyppVYg8B"/>
+    </spotify:access>
+    <itunes:author>Juan Carlos Marchan</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Juan Marchan</itunes:name>
+      <itunes:email>juancarlosmarchan@skyweavermedia.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:category text="null"/>
+    <itunes:image href="https://d32kcwy5dai345.cloudfront.net/49105b38-5a93-494b-901d-2be2afcd9a1b.jpg"/>
+    <item>
+      <title>
+        <![CDATA[ Capítulo 1: Introducción & Prólogo del Autor ]]>
+      </title>
+      <guid isPermaLink="false">3997b084-69a5-4639-ae62-9cced3d30079_27SF7kLrmi</guid>
+      <dc:creator>
+        <![CDATA[ Juan Carlos Marchan ]]>
+      </dc:creator>
+      <pubDate>Sat, 15 Mar 2025 18:14:39 GMT</pubDate>
+      <enclosure url="https://podcasts.helloaudio.fm/download/27SF7kLrmi/3997b084-69a5-4639-ae62-9cced3d30079.mp3" length="33915413" type="audio/mpeg"/>
+      <spotify:access>
+        <entitlement name="693101ae-6aab-4345-a235-61643ee92617"/>
+      </spotify:access>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:23:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <!-- Include the remaining <item> blocks exactly as provided -->
+  </channel>
+</rss>
