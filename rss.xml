@@ -6,17 +6,17 @@
      version="2.0">
   <channel>
     <title>
-      <![CDATA[ Planifica, luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional ]]>
+      <![CDATA[ Planifica, Luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional ]]>
     </title>
     <description>
-      <![CDATA[ Planifica, luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional ]]>
+      <![CDATA[ Planifica, Luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional ]]>
     </description>
     <link>https://helloaudio.fm</link>
     <!-- Feed summary added -->
     <itunes:summary><![CDATA[Un podcast sobre estrategias avanzadas de trading para lograr consistencia y rentabilidad.]]></itunes:summary>
     <image>
       <url>https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/ESP_Podcast_800px.jpg</url>
-      <title>Planifica, luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional</title>
+      <title>Planifica, Luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional</title>
       <link>https://helloaudio.fm</link>
     </image>
     <generator>Podcast for Node</generator>
