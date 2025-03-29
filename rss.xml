@@ -1,3 +1,10 @@
+Below is the modified XML with both the `<image>` URL and the `<itunes:image>` href updated to:
+
+```
+https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/ESP_Podcast_800px.jpg
+```
+
+```xml
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
      xmlns:atom="http://www.w3.org/2005/Atom" 
@@ -15,7 +22,7 @@
     <!-- Feed summary added -->
     <itunes:summary><![CDATA[Un podcast sobre estrategias avanzadas de trading para lograr consistencia y rentabilidad.]]></itunes:summary>
     <image>
-      <url>https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/ESP_Podcast_800px.jpeg</url>
+      <url>https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/ESP_Podcast_800px.jpg</url>
       <title>Planifica, luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional</title>
       <link>https://helloaudio.fm</link>
     </image>
@@ -47,21 +54,19 @@
     <itunes:category text="Business">
       <itunes:category text="Investing"/>
     </itunes:category>
-    <itunes:image href="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/ESP_Podcast_800px.jpeg"/>
+    <itunes:image href="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/ESP_Podcast_800px.jpg"/>
     
     <!-- Capítulo 1 -->
     <item>
       <title>
         <![CDATA[ Capítulo 1: Introducción & Prólogo del Autor ]]>
       </title>
-      <!-- Episode webpage link (update if needed) -->
       <link>https://helloaudio.fm/episode/3997b084-69a5-4639-ae62-9cced3d30079</link>
       <guid isPermaLink="false">3997b084-69a5-4639-ae62-9cced3d30079_27SF7kLrmi</guid>
       <dc:creator>
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:39 GMT</pubDate>
-      <!-- Updated enclosure URL for chapter 1 -->
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_chapter_1.mp3" length="33915413" type="audio/mpeg"/>
       <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
       <itunes:summary><![CDATA[Una introducción y prólogo del autor al podcast.]]></itunes:summary>
@@ -182,7 +187,6 @@
         <![CDATA[ Juan Carlos Marchan ]]>
       </dc:creator>
       <pubDate>Sat, 15 Mar 2025 18:14:33 GMT</pubDate>
-      <!-- Updated enclosure URL for chapter 7 -->
       <enclosure url="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/Spanish_Audio_Chapter_7+.mp3" length="134456693" type="audio/mpeg"/>
       <itunes:author><![CDATA[ Juan Carlos Marchan ]]></itunes:author>
       <itunes:summary><![CDATA[Conceptos avanzados para la gestión dinámica de riesgos.]]></itunes:summary>
@@ -334,3 +338,6 @@
     
   </channel>
 </rss>
+```
+
+All references to the podcast image have now been updated to the new URL.
