@@ -15,7 +15,7 @@
     <!-- Feed summary added -->
     <itunes:summary><![CDATA[Un podcast sobre estrategias avanzadas de trading para lograr consistencia y rentabilidad.]]></itunes:summary>
     <image>
-      <url>https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/ESP_Podcast_800px.png</url>
+      <url>https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/ESP_Podcast_800px.jpeg</url>
       <title>Planifica, luego Opera: Un Marco Avanzado para Alcanzar Consistencia y Rentabilidad Profesional</title>
       <link>https://helloaudio.fm</link>
     </image>
@@ -47,7 +47,7 @@
     <itunes:category text="Business">
       <itunes:category text="Investing"/>
     </itunes:category>
-    <itunes:image href="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/ESP_Podcast_800px.png"/>
+    <itunes:image href="https://skyweavertrainingbook.s3.us-east-2.amazonaws.com/Spanish+Chapters/ESP_Podcast_800px.jpeg"/>
     
     <!-- Capítulo 1 -->
     <item>
